@@ -1,0 +1,1 @@
+near create-account joining_event.nurota.testnet --masterAccount nurota.testnet --initialBalance 30

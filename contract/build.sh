@@ -1,0 +1,1 @@
+cargo build --target wasm32-unknown-unknown --release && mv ./target/wasm32-unknown-unknown/release/joining_event.wasm ./out/
